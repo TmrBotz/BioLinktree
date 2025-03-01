@@ -2,7 +2,7 @@
 	"general": [
 		{ "title": "navigation.home", "link": "/#hero", "key": "home" },
 		{ "title": "navigation.skills", "link": "/#skills", "key": "skills" },
-		{ "title": "navigation.projects", "link": "/#projects", "key": "projects" },
+		{ "title": "navigation.projects", "link": "/#projects", "key": "Bots And Channel" },
 		{ "title": "navigation.contact", "link": "/#contact", "key": "contact" }
 	]
 }
